@@ -31,6 +31,8 @@ sys=tf(num,den)
 step(sys)
 ```
 ## Simulink:
+<img width="691" height="227" alt="image" src="https://github.com/user-attachments/assets/5a68d8c1-d138-491d-8938-83f07a42c2d9" />
+<img width="760" height="397" alt="image" src="https://github.com/user-attachments/assets/e69185ab-d640-427f-b75d-ead16b74f69f" />
 
 ## Procedure:
 	Open MATLAB software
